@@ -1,0 +1,8 @@
+pyserial>=3.5
+PySide6>=6.6
+numpy>=1.26
+pyvista>=0.48
+pyvistaqt>=0.12
+pyqtgraph>=0.13
+opencv-python>=4.9
+mediapipe>=0.10
